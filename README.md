@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 
-Here are some screenshots of the Share Meal app:
+Here are some screenshots of the satbark app:
 
 <img src="screenshots/1.png" alt="Screenshot 1" width="200">
 <img src="screenshots/2.png" alt="Screenshot 1" width="200">

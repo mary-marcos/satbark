@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "481894141271",
+    "project_id": "satbark-bdb10",
+    "storage_bucket": "satbark-bdb10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481894141271:android:8dc95fb0bab75661178212",
+        "android_client_info": {
+          "package_name": "com.example.satbark"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV2sYtyKkyE_KhJzs2y4Neqo15RP7EN0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
